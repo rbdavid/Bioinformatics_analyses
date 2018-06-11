@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# vi backups files
+*~
+
 # C extensions
 *.so
 
